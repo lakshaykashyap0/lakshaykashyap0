@@ -1,84 +1,92 @@
-<h1 align="center">Hi 👋, I'm Lakshay Kashyap</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+Developer;C%2B%2B+Programmer;Python+Enthusiast;Machine+Learning+Learner;Data+Structures+%26+Algorithms;Future+Software+Engineer+🚀" alt="Typing SVG" />
+# Hi 👋 I'm Lakshay Kashyap
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=700&lines=B.Tech+CSE+Student;Java+Developer;C%2B%2B+Programmer;Python+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+🚀" />
+
+<br>
+
+<p>
+<a href="mailto:kashyaplakshay438@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lakshay-kashyap-990825318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/lakshaykashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.codechef.com/users/lakshaykashyap"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/kashyaplakshay41"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="mailto:kashyaplakshay438@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kashyaplakshay438%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lakshay-kashyap-990825318">
-    <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Kashyap-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/lakshaykashyap/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://www.codechef.com/users/lakshaykashyap">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```java
-class LakshayKashyap {
+public class Lakshay {
 
-    String education = "B.Tech CSE";
-    String[] languages = {"Java", "C++", "Python", "C"};
-    String[] learning = {"DSA", "Machine Learning", "Git", "SQL"};
-    String goal = "Software Development Engineer";
-    String passion = "Building impactful software and solving problems.";
+    String degree = "B.Tech CSE";
+
+    String[] languages = {
+        "Java",
+        "C++",
+        "Python",
+        "C"
+    };
+
+    String[] learning = {
+        "Data Structures",
+        "Machine Learning",
+        "System Design",
+        "SQL"
+    };
+
+    String currentGoal = "Become a Software Engineer";
 
 }
 ```
 
 - 🎓 B.Tech Computer Science Engineering
-- 💻 Strong in **Java, C++, Python & C**
-- 🌱 Currently learning **Machine Learning** and **Data Structures**
-- 🚀 Passionate about coding, problem solving & software development
-- 📈 Improving every day through projects and competitive programming
-- 📫 Reach me at **kashyaplakshay438@gmail.com**
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Machine Learning & DSA
+- 🚀 Building projects to solve real-world problems
+- 📚 Always improving through coding and open source
 
 ---
 
-# 🛠 Tech Stack
+# ⚒️ Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,c,js" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,c,js"/>
 </p>
 
-### Web Development
+### Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
 </p>
 
 ### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,linux"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshaykashyap0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshaykashyap0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaykashyap0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaykashyap0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,7 +106,7 @@ class LakshayKashyap {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshaykashyap0&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshaykashyap0&theme=algolia&column=7"/>
 
 </p>
 
@@ -116,57 +124,48 @@ class LakshayKashyap {
 
 # 💻 Competitive Programming
 
-| Platform | Profile |
-|----------|---------|
+| Platform | Link |
+|----------|------|
 | 🟠 LeetCode | https://leetcode.com/u/lakshaykashyap/ |
 | 🟤 CodeChef | https://www.codechef.com/users/lakshaykashyap |
-| 🔵 HackerRank | https://www.hackerrank.com/profile/kashyaplakshay41 |
+| 🟢 HackerRank | https://www.hackerrank.com/profile/kashyaplakshay41 |
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Current Focus
 
-- ✅ Data Structures & Algorithms
-- ✅ Machine Learning
-- ✅ SQL
-- ✅ Git & GitHub
-- ✅ Object Oriented Programming
-- ✅ Problem Solving
+✔ Data Structures & Algorithms
+
+✔ Machine Learning
+
+✔ Java Development
+
+✔ SQL
+
+✔ Git & GitHub
+
+✔ Open Source
 
 ---
 
 # 🚀 2026 Goals
 
-🎯 Solve 500+ LeetCode Problems
+⭐ 500+ LeetCode Problems
 
-🎯 Build 10+ Real-World Projects
+⭐ 5+ Production Ready Projects
 
-🎯 Master Java & DSA
+⭐ Open Source Contributions
 
-🎯 Learn Machine Learning
+⭐ Software Engineering Internship
 
-🎯 Contribute to Open Source
-
-🎯 Secure an SDE Internship
+⭐ Strong GitHub Portfolio
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-> **"Consistency beats intensity. I believe in writing code every single day."**
+## ⚡ "Code. Learn. Improve. Repeat."
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lakshaykashyap0&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
-</p>
+</div>
