@@ -126,7 +126,7 @@ public class Lakshay {
 
 | Platform | Link |
 |----------|------|
-| 🟠 LeetCode | https://leetcode.com/u/lakshaykashyap/ |
+| 🟠 LeetCode | https://leetcode.com/u/lakshaykashyap0/ |
 | 🟤 CodeChef | https://www.codechef.com/users/lakshaykashyap |
 | 🟢 HackerRank | https://www.hackerrank.com/profile/kashyaplakshay41 |
 
